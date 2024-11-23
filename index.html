@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day Countdown Timer</title>
+    <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+    <div class="popup" id="popup">
+        <p id="popupText">Try dark mode for a better night-time experience!</p>
+        <button id="popupOk">OK</button>
+    </div>
+
+    <button class="dark-mode-toggle" id="darkModeToggle">
+        <img src="/public/icons/sun.svg" alt="Toggle Dark Mode" class="toggle-icon" id="toggleIcon">
+    </button>
+    <div class="timer-container">
+        <div class="timer-title">Time Left Until End of the Day</div>
+        <div class="timer" id="timer"></div>
+        <div class="subtext">Let's make the most of the remaining time!</div>
+    </div>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>
