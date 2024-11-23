@@ -2,7 +2,7 @@
 
 A sleek and responsive web application that displays the remaining time until the end of the current day. Features an elegant design with dark/light mode toggle and theme-aware notifications.
 
-![Preview of Day Countdown Timer](image.jpg)
+![Preview of Day Countdown Timer](Screenshot 2024-11-23 162437.png)
 
 ## Features
 
