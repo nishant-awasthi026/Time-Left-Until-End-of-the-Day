@@ -144,7 +144,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Icons provided by [Icons8](https://icons8.com/)
 - Gradient inspiration from [uiGradients](https://uigradients.com/)
 
-## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/day-countdown-timer](https://github.com/yourusername/day-countdown-timer)
